@@ -1,1 +1,1 @@
-# BLOCK-INCEPTION-
+So Inception blocks, essentially get the same job done as single convolutional layers, with much better memory and compute efficiency. Figure 4. Inception Network Simplified (Source: Image created by author)
